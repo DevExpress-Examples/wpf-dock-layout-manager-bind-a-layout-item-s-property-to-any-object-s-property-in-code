@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/BindToProperty_Ex/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/BindToProperty_Ex/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/BindToProperty_Ex/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/BindToProperty_Ex/MainWindow.xaml))
+<!-- default file list end -->
 # How to bind a layout item's property to a property of any object
 
 
