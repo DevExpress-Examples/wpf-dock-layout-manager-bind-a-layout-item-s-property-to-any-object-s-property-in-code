@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindToProperty_Ex", "BindToProperty_Ex\BindToProperty_Ex.csproj", "{0F6A12AF-63AB-49BB-8DA4-C728607C4D0C}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindToProperty_Ex", "BindToProperty_Ex\BindToProperty_Ex.Net5.csproj", "{0F6A12AF-63AB-49BB-8DA4-C728607C4D0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
