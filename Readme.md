@@ -4,9 +4,7 @@
 <!-- default badges end -->
 # WPF Dock Layout Manager - Bind a Layout Item's Property to Any Object's Property In Code
 
-This example shows how to bind a layout item's property to a property on any object in code. 
-
-In this example, a label is defined and it's bound to the Text property of a text editor. Typing text automatically updates the label.
+This example binds a layout item's property to a property on any object in code. A label is defined and it's bound to the Text property of a text editor. Typing text automatically updates the label.
 
 <img src="https://user-images.githubusercontent.com/12169834/175329196-53b22aab-6477-43f6-a900-91cee74de24d.png" width=585/>
 
